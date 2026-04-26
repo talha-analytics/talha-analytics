@@ -11,6 +11,7 @@ I am passionate about turning data into meaningful insights using Python, SQL, a
 - Pandas & NumPy
 - SQL
 - Excel
+- Power Bi
 - Machine Learning (Basics)
 
 ---
