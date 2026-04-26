@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Talha 
 
-<!--
-**talha-analytics/talha-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about turning data into meaningful insights using Python, SQL, and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python 
+- Pandas & NumPy
+- SQL
+- Excel
+- Machine Learning (Basics)
+
+---
+
+## Projects
+
+### Wine Quality Analysis
+- Performed EDA and built ML model  
+- Identified key factors affecting wine quality  
+- Improved model using Random Forest  
+
+🔗 https://github.com/talha-analytics/wine-quality-analysis
+
+---
+
+## Goals
+- Become a Data Analyst  
+- Work on real-world data projects  
+- Build strong portfolio  
+
+---
+
+## Connect with me
+- GitHub: https://github.com/talha-analytics
