@@ -1,3 +1,4 @@
+![Banner](Banner.png)
 # Hi, I'm Talha 
 
 ## Aspiring Data Analyst
